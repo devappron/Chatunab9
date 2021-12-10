@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "673097302298",
+    "project_id": "chatunab9",
+    "storage_bucket": "chatunab9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673097302298:android:bd9f2c3f75cb9e050aaca3",
+        "android_client_info": {
+          "package_name": "com.ingelecron.chatunab9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673097302298-30b5pbpho3l8ptm5vlntvr1lsmc1mhec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGoQT457lOvzgSdILNgU1MVeImZhjNfsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673097302298-30b5pbpho3l8ptm5vlntvr1lsmc1mhec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
